@@ -1,0 +1,22 @@
+{
+  "name": "qjs",
+  "authors": [
+    "Erik Skoglund <erikskoglund88@gmail.com>"
+  ],
+  "description": "js query helper library",
+  "main": "js/q.js",
+  "keywords": [
+    "query",
+    "js",
+    "helper"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
